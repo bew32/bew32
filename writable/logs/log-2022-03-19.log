@@ -1,0 +1,292 @@
+CRITICAL - 2022-03-19 02:38:36 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 02:38:37 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 02:42:24 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 02:42:24 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 02:42:24 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 02:43:16 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('contact', Array, true)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Contact.php(12): view('contact')
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->index()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-19 03:14:37 --> Class "App\Controllers\ContactModel" not found
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->save()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-19 03:29:23 --> Undefined constant "App\Controllers\required"
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Contact->save()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-03-19 06:39:40 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:39:40 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:39:44 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:39:44 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:39:48 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:39:48 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:39:56 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:39:56 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:42:07 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:42:07 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:55:23 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:55:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Admin.php(10): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 06:55:27 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 06:55:27 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Admin.php(10): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-19 08:30:43 --> Undefined variable $roues
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Config\Routes.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(713): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-19 08:38:11 --> Undefined variable $user_id
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-19 08:38:26 --> Undefined variable $ID
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-19 08:38:31 --> Undefined variable $ID
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-19 08:39:08 --> Undefined variable $user_id
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-19 08:42:11 --> Undefined variable $user_id
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-19 08:53:32 --> Undefined variable $session
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Views\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Index.php(8): view('index')
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Index->index()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Index))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-19 09:01:05 --> Undefined variable $session
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Views\indexuser.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Common.php(1089): CodeIgniter\View\View->render('indexuser', Array, true)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\IndexUser.php(8): view('indexuser')
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\IndexUser->indexuser()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IndexUser))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 20:05:23 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 20:05:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 20:05:28 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 20:05:28 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-19 20:05:32 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-03-19 20:05:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Login.php(18): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Login->auth()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

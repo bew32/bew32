@@ -1,0 +1,80 @@
+CRITICAL - 2022-03-16 07:47:12 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-16 07:47:45 --> Class "App\Models\Controller" not found
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-16 21:01:42 --> required|min_length is not a valid rule.
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gameza123@gmail...', Array, Array)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Register.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Register->save()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-16 21:03:53 --> required|min_length is not a valid rule.
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required|min_le...')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gameza123@gmail...', Array, Array)
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Register.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Register->save()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#6 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-03-16 21:04:31 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register/save')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register/save')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-16 21:04:37 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-16 21:04:40 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-16 21:04:41 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-16 21:05:25 --> Call to undefined method App\Models\UserModel::register
+#0 C:\xampp\htdocs\CI4\Codeigniter 4 Web\app\Controllers\Register.php(35): CodeIgniter\Model->__call('register', Array)
+#1 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(832): App\Controllers\Register->save()
+#2 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#3 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\Codeigniter 4 Web\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\Codeigniter 4 Web\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
